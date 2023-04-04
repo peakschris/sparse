@@ -7,7 +7,10 @@ Demonstrates issue with sparse checkout
 4. git sparse-checkout reapply
 
 Output:
-```warning: unrecognized negative pattern: '/A/B'
+```
+git sparse-checkout reapply
+warning: unrecognized negative pattern: '/A/B'
 warning: disabling cone pattern matching
 warning: unrecognized negative pattern: '/A/B'
-warning: disabling cone pattern matching```
+warning: disabling cone pattern matching
+```
